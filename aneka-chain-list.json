@@ -15,7 +15,7 @@
     "chainId": "aplikigo-1",
     "type": "testnet",
     "url": "https://aplikigo.regen.aneka.io",
-    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen.jpg"
+    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen.png"
   },
   {
     "chainId": "regen-devnet-4",
