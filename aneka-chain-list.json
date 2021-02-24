@@ -21,7 +21,7 @@
     "chainId": "regen-devnet-4",
     "type": "testnet",
     "url": "https://devnet.regen.aneka.io",
-    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen_logo.png"
+    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen.png"
   },
   {
     "chainId": "bigbang-3",
