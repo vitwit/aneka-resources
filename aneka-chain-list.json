@@ -45,7 +45,7 @@
     "chainId": "musselnet-2",
     "type": "testnet",
     "url": "https://musselnet.cosmwasm.aneka.io",
-    "logo": "https://github.com/vitwit/aneka-resources/blob/test/assets/wasm.png"
+    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/wasm.png"
   },
   {
     "chainId": "althea-2",
