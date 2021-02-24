@@ -1,0 +1,56 @@
+[
+  {
+    "chainId": "akashnet-1",
+    "type": "mainnet",
+    "url": "https://akash.aneka.io",
+    "logo": ""
+  },
+  {
+    "chainId": "cosmoshub-4",
+    "type": "mainnet",
+    "url": "https://cosmos.aneka.io",
+    "logo": ""
+  },
+  {
+    "chainId": "aplikigo-1",
+    "type": "testnet",
+    "url": "https://aplikigo.regen.aneka.io",
+    "logo": ""
+  },
+  {
+    "chainId": "regen-devnet-4",
+    "type": "testnet",
+    "url": "https://devnet.regen.aneka.io",
+    "logo": ""
+  },
+  {
+    "chainId": "bigbang-3",
+    "type": "testnet",
+    "url": "https://bigbang.aneka.io",
+    "logo": ""
+  },
+  {
+    "chainId": "akshnet-2-testnet-2",
+    "type": "testnet",
+    "url": "https://testnet.akash.aneka.io",
+    "logo": ""
+  },
+  {
+    "chainId": "edgenet-5",
+    "type": "testnet",
+    "url": "https://edgenet.akash.aneka.io",
+    "logo": ""
+  },
+  {
+    "chainId": "musselnet-2",
+    "type": "testnet",
+    "url": "https://musselnet.cosmwasm.aneka.io",
+    "logo": ""
+  },
+  {
+    "chainId": "althea-2",
+    "type": "testnet",
+    "url": "https://testnet.althea.aneka.io",
+    "logo": ""
+  }
+]
