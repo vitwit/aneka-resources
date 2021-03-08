@@ -6,6 +6,12 @@
     "logo": "https://akash.vitwit.com/argon-design-system-react/akashfavicon.png"
   },
   {
+    "chainId": "akashnet-1",
+    "type": "mainnet",
+    "url": "https://akash.aneka.io-1",
+    "logo": "https://akash.vitwit.com/argon-design-system-react/akashfavicon.png"
+  },
+  {
     "chainId": "cosmoshub-4",
     "type": "mainnet",
     "url": "https://cosmos.aneka.io",
