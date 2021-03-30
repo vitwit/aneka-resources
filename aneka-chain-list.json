@@ -58,5 +58,11 @@
     "type": "testnet",
     "url": "https://testnet.althea.aneka.io",
     "logo": ""
+  },
+  {
+    "chainId": "agorictest-7",
+    "type": "testnet",
+    "url": "https://testnet.agoric.aneka.io",
+    "logo": ""
   }
 ]
