@@ -64,5 +64,11 @@
     "type": "testnet",
     "url": "https://testnet.agoric.aneka.io",
     "logo": "https://pbs.twimg.com/profile_images/1021451090959613953/V0W7-tTF_400x400.jpg"
+  },
+   {
+    "chainId": "regen-devnet-5",
+    "type": "testnet",
+    "url": "https://prelaunch.regen.aneka.io",
+    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen.png"
   }
 ]
