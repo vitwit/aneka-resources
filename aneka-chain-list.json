@@ -70,5 +70,11 @@
     "type": "testnet",
     "url": "https://prelaunch.regen.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen.png"
+  },
+  {
+    "chainId": "regen-1",
+    "type": "mainnet",
+    "url": "https://regen.aneka.io",
+    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen.png"
   }
 ]
