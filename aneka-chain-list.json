@@ -54,7 +54,7 @@
     "logo": ""
   },
   {
-    "chainId": "agorictest-7",
+    "chainId": "agorictest-11",
     "type": "testnet",
     "url": "https://testnet.agoric.aneka.io",
     "logo": ""
