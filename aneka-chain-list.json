@@ -66,10 +66,10 @@
     "logo": "https://miro.medium.com/fit/c/160/160/1*Ab26IlaSZgdq3L6ViEP-sw.jpeg"
   },
   {
-    "chainId": "althea-2",
+    "chainId": "althea-testnet2v2",
     "type": "testnet",
     "url": "https://testnet.althea.aneka.io",
-    "logo": ""
+    "logo": "https://althea.net/images/mounting_party-640.png"
   },
   {
     "chainId": "agorictest-11",
