@@ -58,5 +58,11 @@
     "type": "testnet",
     "url": "https://testnet.agoric.aneka.io",
     "logo": ""
+  },
+  {
+    "chainId": "osmo-testnet-2",
+    "type": "testnet",
+    "url": "https://testnet.osmosis.aneka.io",
+    "logo": "https://miro.medium.com/fit/c/160/160/1*Ab26IlaSZgdq3L6ViEP-sw.jpeg"
   }
 ]
