@@ -60,7 +60,7 @@
     "logo": "https://lunex.vc/wp-content/uploads/2020/10/77411990_109377593885210_7881778374190825472_o.png"
   },
   {
-    "chainId": "osmo-testnet-thanatos",
+    "chainId": "osmo-testnet-2",
     "type": "testnet",
     "url": "https://testnet.osmosis.aneka.io",
     "logo": "https://miro.medium.com/fit/c/160/160/1*Ab26IlaSZgdq3L6ViEP-sw.jpeg"
