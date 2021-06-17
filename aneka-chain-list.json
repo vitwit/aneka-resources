@@ -60,7 +60,7 @@
     "logo": ""
   },
   {
-    "chainId": "osmo-testnet-2",
+    "chainId": "osmo-testnet-4",
     "type": "testnet",
     "url": "https://testnet.osmosis.aneka.io",
     "logo": "https://miro.medium.com/fit/c/160/160/1*Ab26IlaSZgdq3L6ViEP-sw.jpeg"
