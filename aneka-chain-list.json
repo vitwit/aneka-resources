@@ -66,6 +66,12 @@
     "logo": "https://miro.medium.com/fit/c/160/160/1*Ab26IlaSZgdq3L6ViEP-sw.jpeg"
   },
   {
+    "chainId": "osmosis-1",
+    "type": "mainnet",
+    "url": "https://osmosis.aneka.io",
+    "logo": "https://miro.medium.com/fit/c/160/160/1*Ab26IlaSZgdq3L6ViEP-sw.jpeg"
+  },
+  {
     "chainId": "althea-testnet2v2",
     "type": "testnet",
     "url": "https://testnet.althea.aneka.io",
