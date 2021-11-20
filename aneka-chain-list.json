@@ -94,5 +94,11 @@
     "type": "mainnet",
     "url": "https://regen.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen.png"
+  },
+  {
+    "chainId": "comdex-1",
+    "type": "mainnet",
+    "url": "https://comdex.aneka.io",
+    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/comdex.png"
   }
 ]
