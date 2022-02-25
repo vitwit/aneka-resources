@@ -106,5 +106,11 @@
     "type": "testnet",
     "url": "https://testnet.blockx.aneka.io",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
-  }
+  },
+  {
+    "chainId": "omniflixhub-1",
+    "type": "mainnet",
+    "url": "https://omniflix.aneka.io",
+    "logo": "https://github.com/vitwit/aneka-resources/blob/test/assets/OmniFlix%20Alpha.png"
+  },
 ]
