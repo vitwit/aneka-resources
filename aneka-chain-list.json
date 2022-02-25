@@ -111,6 +111,6 @@
     "chainId": "omniflixhub-1",
     "type": "mainnet",
     "url": "https://omniflix.aneka.io",
-    "logo": "https://github.com/vitwit/aneka-resources/blob/test/assets/OmniFlix%20Alpha.png"
+    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/OmniFlix%20Alpha.png"
   },
 ]
