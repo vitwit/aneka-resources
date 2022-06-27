@@ -112,5 +112,11 @@
     "type": "mainnet",
     "url": "https://omniflix.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/OmniFlix%20Alpha.png"
+  },
+   {
+    "chainId": "tgrade-mainnet-1",
+    "type": "mainnet",
+    "url": "https://tgrade.aneka.io",
+    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/c6eRraG0_400x400.jpg"
   }
 ]
