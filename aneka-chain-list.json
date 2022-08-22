@@ -120,9 +120,9 @@
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/c6eRraG0_400x400.jpg"
   },
   {
-    "chainId": "passage-testnet-1",
-    "type": "testnet",
-    "url": "https://passage3d.testaneka.com",
-    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/passage3d.svg"
+    "chainId": "passage-1",
+    "type": "mainnet",
+    "url": "https://passage.aneka.io",
+    "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/passage.png"
   }
 ]
