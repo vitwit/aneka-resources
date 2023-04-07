@@ -3,126 +3,147 @@
     "chainId": "akashnet-2",
     "type": "mainnet",
     "url": "https://akash.aneka.io",
+    "api_url": "https://api.akash.aneka.io",
     "logo": "https://akash.vitwit.com/argon-design-system-react/akashfavicon.png"
   },
   {
     "chainId": "akashnet-1",
     "type": "mainnet",
     "url": "https://akashnet-1.aneka.io",
+    "api_url": "https://api.akashnet-1.aneka.io",
     "logo": "https://akash.vitwit.com/argon-design-system-react/akashfavicon.png"
   },
   {
     "chainId": "cosmoshub-4",
     "type": "mainnet",
     "url": "https://cosmos.aneka.io",
+    "api_url": "https://api.cosmos.aneka.io",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
   },
   {
     "chainId": "aplikigo-1",
     "type": "testnet",
     "url": "https://aplikigo.regen.aneka.io",
+    "api_url": "https://api.aplikigo.regen.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen.png"
   },
   {
     "chainId": "regen-devnet-4",
     "type": "testnet",
     "url": "https://devnet.regen.aneka.io",
+    "api_url": "https://api.devnet.regen.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen.png"
   },
   {
     "chainId": "bigbang-3",
     "type": "testnet",
     "url": "https://bigbang.aneka.io",
+    "api_url": "https://api.bigbang.aneka.io",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
   },
   {
     "chainId": "akshnet-2-testnet-2",
     "type": "testnet",
     "url": "https://testnet.akash.aneka.io",
+    "api_url": "https://api.testnet.akash.aneka.io",
     "logo": "https://akash.vitwit.com/argon-design-system-react/akashfavicon.png"
   },
   {
     "chainId": "edgenet-5",
     "type": "testnet",
     "url": "https://edgenet.akash.aneka.io",
+    "api_url": "https://api.edgenet.akash.aneka.io",
     "logo": "https://akash.vitwit.com/argon-design-system-react/akashfavicon.png"
   },
    {
     "chainId": "oysternet-1",
     "type": "testnet",
     "url": "https://testnet.cosmwasm.aneka.io",
+    "api_url": "https://api.testnet.cosmwasm.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/wasm.png"
   },
    {
     "chainId": "core-1",
     "type": "testnet",
     "url": "https://persistence.aneka.io",
+    "api_url": "https://api.persistence.aneka.io",
     "logo": "https://lunex.vc/wp-content/uploads/2020/10/77411990_109377593885210_7881778374190825472_o.png"
   },
   {
     "chainId": "osmo-testnet-2",
     "type": "testnet",
     "url": "https://testnet.osmosis.aneka.io",
+    "api_url": "https://api.testnet.osmosis.aneka.io",
     "logo": "https://miro.medium.com/fit/c/160/160/1*Ab26IlaSZgdq3L6ViEP-sw.jpeg"
   },
   {
     "chainId": "osmosis-1",
     "type": "mainnet",
     "url": "https://osmosis.aneka.io",
+    "api_url": "https://api.osmosis.aneka.io",
     "logo": "https://miro.medium.com/fit/c/160/160/1*Ab26IlaSZgdq3L6ViEP-sw.jpeg"
   },
   {
     "chainId": "althea-testnet2v2",
     "type": "testnet",
     "url": "https://testnet.althea.aneka.io",
+    "api_url": "https://api.testnet.althea.aneka.io",
     "logo": "https://althea.net/images/mounting_party-640.png"
   },
   {
     "chainId": "agorictest-11",
     "type": "testnet",
     "url": "https://testnet.agoric.aneka.io",
+    "api_url": "https://api.testnet.agoric.aneka.io",
     "logo": "https://pbs.twimg.com/profile_images/1021451090959613953/V0W7-tTF_400x400.jpg"
   },
    {
     "chainId": "regen-devnet-5",
     "type": "testnet",
     "url": "https://prelaunch.regen.aneka.io",
+     "api_url": "https://api.prelaunch.regen.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen.png"
   },
   {
     "chainId": "regen-1",
     "type": "mainnet",
     "url": "https://regen.aneka.io",
+    "api_url": "https://api.regen.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/regen.png"
   },
   {
     "chainId": "comdex-1",
     "type": "mainnet",
     "url": "https://comdex.aneka.io",
+    "api_url": "https://api.comdex.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/comdex.jpg"
   },
   {
     "chainId": "blockx-11",
     "type": "testnet",
     "url": "https://testnet.blockx.aneka.io",
+    "api_url": "https://api.testnet.blockx.aneka.io",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
   },
    {
     "chainId": "omniflixhub-1",
     "type": "mainnet",
     "url": "https://omniflix.aneka.io",
+     "api_url": "https://api.omniflix.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/OmniFlix%20Alpha.png"
   },
    {
     "chainId": "tgrade-mainnet-1",
     "type": "mainnet",
     "url": "https://tgrade.aneka.io",
+     "api_url": "https://api.tgrade.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/c6eRraG0_400x400.jpg"
   },
   {
     "chainId": "passage-1",
     "type": "mainnet",
     "url": "https://passage.aneka.io",
+    "api_url": "https://api.passage.aneka.io",
     "logo": "https://raw.githubusercontent.com/vitwit/aneka-resources/test/assets/passage.png"
   }
 ]
