@@ -1,0 +1,595 @@
+{
+  "akash": {
+    "enable_modules": {
+      "authz": true,
+      "feegrant": true,
+      "group": false
+    },
+    "amino_config": {
+      "authz": false,
+      "feegrant": false,
+      "group": false
+    },
+    "show_airdrop": false,
+    "logos": {
+      "menu": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/akash/images/akash.svg",
+      "toolbar": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/akash/images/akash-logo.png"
+    },
+    "keplr_experimental": false,
+    "leap_experimental": false,
+    "is_testnet": false,
+    "explorer_tx_hash_endpoint": "https://www.mintscan.io/akash/txs/",
+    "config": {
+      "chain_id": "akashnet-2",
+      "chain_name": "AKASH",
+      "rest": "https://akash-api.polkachu.com",
+      "rpc": "https://rpc.akash.forbole.com/",
+      "currencies": [
+        {
+          "coin_denom": "AKT",
+          "coin_minimal_denom": "uakt",
+          "coin_decimals": 6
+        }
+      ],
+      "bech32_config": {
+        "bech32_prefix_acc_addr": "akash",
+        "bech32_prefix_acc_pub": "akashpub",
+        "bech32_prefix_val_addr": "akashvaloper",
+        "bech32_prefix_val_pub": "akashvaloperpub",
+        "bech32_prefix_cons_addr": "akashgvalcons",
+        "bech32_prefix_cons_pub": "akashvalconspub"
+      },
+      "bip44": {
+        "coin_type": 118
+      },
+      "fee_currencies": [
+        {
+          "coin_denom": "AKT",
+          "coin_minimal_denom": "uakt",
+          "coin_decimals": 6,
+          "gas_price_step": {
+            "low": 0.01,
+            "average": 0.025,
+            "high": 0.03
+          }
+        }
+      ],
+      "stake_currency": {
+        "coin_denom": "AKT",
+        "coin_minimal_denom": "uakt",
+        "coin_decimals": 6
+      },
+      "image": "https://raw.githubusercontent.com/leapwallet/assets/2289486990e1eaf9395270fffd1c41ba344ef602/images/logo.svg",
+      "theme": {
+        "primaryColor": "#fff",
+        "gradient": "linear-gradient(180deg, rgba(255,255,255,0.32) 0%, rgba(255,255,255,0) 100%)"
+      }
+    }
+  },
+  "cosmoshub": {
+    "enable_modules": {
+      "authz": true,
+      "feegrant": true,
+      "group": false
+    },
+    "amino_config": {
+      "authz": false,
+      "feegrant": false,
+      "group": false
+    },
+    "show_airdrop": false,
+    "logos": {
+      "menu": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/cosmoshub/images/cosmoshub.svg",
+      "toolbar": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/cosmoshub/images/cosmoshub-logo.png"
+    },
+    "keplr_experimental": false,
+    "leap_experimental": false,
+    "is_testnet": false,
+    "explorer_tx_hash_endpoint": "https://www.mintscan.io/cosmos/txs/",
+    "config": {
+      "chain_id": "cosmoshub-4",
+      "chain_name": "CosmosHub",
+      "rest": "https://lcd-cosmoshub.blockapsis.com",
+      "rpc": "https://resolute.witval.com/cosmos_rpc/",
+      "currencies": [
+        {
+          "coin_denom": "ATOM",
+          "coin_minimal_denom": "uatom",
+          "coin_decimals": 6
+        }
+      ],
+      "bech32_config": {
+        "bech32_prefix_acc_addr": "cosmos",
+        "bech32_prefix_acc_pub": "cosmospub",
+        "bech32_prefix_val_addr": "cosmosvaloper",
+        "bech32_prefix_val_pub": "cosmosvaloperpub",
+        "bech32_prefix_cons_addr": "cosmosgvalcons",
+        "bech32_prefix_cons_pub": "cosmosvalconspub"
+      },
+      "fee_currencies": [
+        {
+          "coin_denom": "ATOM",
+          "coin_minimal_denom": "uatom",
+          "coin_decimals": 6,
+          "gas_price_step": {
+            "low": 0.01,
+            "average": 0.025,
+            "high": 0.03
+          }
+        }
+      ],
+      "bip44": {
+        "coin_type": 118
+      },
+      "stake_currency": {
+        "coin_denom": "ATOM",
+        "coin_minimal_denom": "uatom",
+        "coin_decimals": 6
+      },
+      "image": "https://raw.githubusercontent.com/leapwallet/assets/2289486990e1eaf9395270fffd1c41ba344ef602/images/logo.svg",
+      "theme": {
+        "primary_color": "#fff",
+        "gradient": "linear-gradient(180deg, rgba(255,255,255,0.32) 0%, rgba(255,255,255,0) 100%)"
+      }
+    }
+  },
+  "evmos": {
+    "enable_modules": {
+      "authz": true,
+      "feegrant": true,
+      "group": false
+    },
+    "amino_config": {
+      "authz": false,
+      "feegrant": false,
+      "group": false
+    },
+    "show_airdrop": false,
+    "logos": {
+      "menu": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/evmos/images/evmos.svg",
+      "toolbar": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/evmos/images/evmos-logo.png"
+    },
+    "experimental": false,
+    "is_testnet": false,
+    "explorer_tx_hash_endpoint": "https://www.mintscan.io/evmos/txs/",
+    "config": {
+      "chain_id": "evmos_9001-2",
+      "chain_name": "Evmos",
+      "rest": "https://evmos.kingnodes.com",
+      "rpc": "https://rpc-evmos.ecostake.com",
+      "currencies": [
+        {
+          "coin_denom": "EVMOS",
+          "coin_minimal_denom": "aevmos",
+          "coin_decimals": 18
+        }
+      ],
+      "bech32_config": {
+        "bech32_prefix_acc_addr": "evmos",
+        "bech32_prefix_acc_pub": "evmospub",
+        "bech32_prefix_val_addr": "evmosvaloper",
+        "bech32_prefix_val_pub": "evmosvaloperpub",
+        "bech32_prefix_cons_addr": "evmosgvalcons",
+        "bech32_prefix_cons_pub": "evmosvalconspub"
+      },
+      "fee_currencies": [
+        {
+          "coin_denom": "EVMOS",
+          "coin_minimal_denom": "aevmos",
+          "coin_decimals": 18,
+          "gas_price_step": {
+            "low": 0.01,
+            "average": 0.025,
+            "high": 0.03
+          }
+        }
+      ]
+    }
+  },
+  "juno": {
+    "enable_modules": {
+      "authz": true,
+      "feegrant": true,
+      "group": false
+    },
+    "amino_config": {
+      "authz": false,
+      "feegrant": false,
+      "group": false
+    },
+    "show_airdrop": false,
+    "logos": {
+      "menu": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/juno/images/juno.svg",
+      "toolbar": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/juno/images/juno-logo.png"
+    },
+    "keplr_experimental": false,
+    "leap_experimental": false,
+    "is_testnet": false,
+    "explorer_tx_hash_endpoint": "https://www.mintscan.io/juno/txs/",
+    "config": {
+      "chain_id": "juno-1",
+      "chain_name": "Juno",
+      "rest": "https://juno-api.polkachu.com",
+      "rpc": "https://juno-rpc.polkachu.com",
+      "currencies": [
+        {
+          "coin_denom": "JUNO",
+          "coin_minimal_denom": "ujuno",
+          "coin_decimals": 6
+        }
+      ],
+      "bech32_config": {
+        "bech32_prefix_acc_addr": "juno",
+        "bech32_prefix_acc_pub": "junopub",
+        "bech32_prefix_val_addr": "junovaloper",
+        "bech32_prefix_val_pub": "junovaloperpub",
+        "bech32_prefix_cons_addr": "junogvalcons",
+        "bech32_prefix_cons_pub": "junovalconspub"
+      },
+      "fee_currencies": [
+        {
+          "coin_denom": "JUNO",
+          "coin_minimal_denom": "ujuno",
+          "coin_decimals": 6,
+          "gas_price_step": {
+            "low": 0.01,
+            "average": 0.025,
+            "high": 0.03
+          }
+        }
+      ],
+      "bip44": {
+        "coin_type": 118
+      },
+      "stake_currency": {
+        "coin_denom": "JUNO",
+        "coin_minimal_denom": "ujuno",
+        "coin_decimals": 6
+      },
+      "image": "https://raw.githubusercontent.com/leapwallet/assets/2289486990e1eaf9395270fffd1c41ba344ef602/images/logo.svg",
+      "theme": {
+        "primaryColor": "#fff",
+        "gradient": "linear-gradient(180deg, rgba(255,255,255,0.32) 0%, rgba(255,255,255,0) 100%)"
+      }
+    }
+  },
+  "osmosis": {
+    "enable_modules": {
+      "authz": true,
+      "feegrant": true,
+      "group": false
+    },
+    "amino_config": {
+      "authz": false,
+      "feegrant": false,
+      "group": false
+    },
+    "show_airdrop": false,
+    "logos": {
+      "menu": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/osmosis/images/osmosis.svg",
+      "toolbar": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/osmosis/images/osmosis-logo.png"
+    },
+    "keplr_experimental": false,
+    "leap_experimental": false,
+    "is_testnet": false,
+    "explorer_tx_hash_endpoint": "https://www.mintscan.io/osmosis/txs/",
+    "config": {
+      "chain_id": "osmosis-1",
+      "chain_name": "Osmosis",
+      "rest": "https://osmosis-api.polkachu.com",
+      "rpc": "https://rpc.osmosis.zone/",
+      "currencies": [
+        {
+          "coin_denom": "OSMO",
+          "coin_minimal_denom": "uosmo",
+          "coin_decimals": 6
+        }
+      ],
+      "bech32_config": {
+        "bech32_prefix_acc_addr": "osmosis",
+        "bech32_prefix_acc_pub": "osmosispub",
+        "bech32_prefix_val_addr": "osmosisvaloper",
+        "bech32_prefix_val_pub": "osmosisvaloperpub",
+        "bech32_prefix_cons_addr": "osmosisgvalcons",
+        "bech32_prefix_cons_pub": "osmosisvalconspub"
+      },
+      "fee_currencies": [
+        {
+          "coin_denom": "OSMO",
+          "coin_minimal_denom": "uosmo",
+          "coin_decimals": 6,
+          "gas_price_step": {
+            "low": 0.01,
+            "average": 0.025,
+            "high": 0.03
+          }
+        }
+      ],
+      "bip44": {
+        "coin_type": 118
+      },
+      "stake_currency": {
+        "coin_denom": "OSMO",
+        "coin_minimal_denom": "uosmo",
+        "coin_decimals": 6
+      },
+      "image": "https://raw.githubusercontent.com/leapwallet/assets/2289486990e1eaf9395270fffd1c41ba344ef602/images/logo.svg",
+      "theme": {
+        "primaryColor": "#fff",
+        "gradient": "linear-gradient(180deg, rgba(255,255,255,0.32) 0%, rgba(255,255,255,0) 100%)"
+      }
+    }
+  },
+  "passage": {
+    "enable_modules": {
+      "authz": true,
+      "feegrant": true,
+      "group": false
+    },
+    "amino_config": {
+      "authz": false,
+      "feegrant": false,
+      "group": false
+    },
+    "show_airdrop": true,
+    "logos": {
+      "toolbar": "https://raw.githubusercontent.com/vitwit/chain-registry/aleem/staking-assets/passage3d/images/passage3d-logo.png",
+      "menu": "https://raw.githubusercontent.com/vitwit/chain-registry/aleem/staking-assets/passage3d/images/passage.png"
+    },
+    "keplr_experimental": true,
+    "leap_experimental": true,
+    "is_testnet": false,
+    "explorer_tx_hash_endpoint": "https://passage.aneka.io/txs/",
+    "config": {
+      "chain_id": "passage-1",
+      "chain_name": "Passage",
+      "rest": "https://api.passage.vitwit.com/",
+      "rpc": "https://rpc.passage.vitwit.com",
+      "bip44": {
+        "coin_type": 118
+      },
+      "currencies": [
+        {
+          "coin_denom": "PASG",
+          "coin_minimal_denom": "upasg",
+          "coin_decimals": 6,
+          "coin_gecko_id": "passage"
+        }
+      ],
+      "wallet_url_for_staking": "https://resolute.vitwit.com/passage/staking",
+      "bech32_config": {
+        "bech32_prefix_acc_addr": "passage",
+        "bech32_prefix_acc_pub": "passagepub",
+        "bech32_prefix_val_addr": "passagevaloper",
+        "bech32_prefix_val_pub": "passagevaloperpub",
+        "bech32_prefix_cons_addr": "passagegvalcons",
+        "bech32_prefix_cons_pub": "passagevalconspub"
+      },
+      "fee_currencies": [
+        {
+          "coin_denom": "PASG",
+          "coin_minimal_denom": "upasg",
+          "coin_decimals": 6,
+          "coin_gecko_id": "passage",
+          "gas_price_step": {
+            "low": 0.0,
+            "average": 0.0,
+            "high": 0.01
+          }
+        }
+      ],
+      "stake_currency": {
+        "coin_denom": "PASG",
+        "coin_minimal_denom": "upasg",
+        "coin_decimals": 6,
+        "coin_gecko_id": "passage"
+      },
+      "image": "https://raw.githubusercontent.com/leapwallet/assets/2289486990e1eaf9395270fffd1c41ba344ef602/images/logo.svg",
+      "theme": {
+        "primaryColor": "#fff",
+        "gradient": "linear-gradient(180deg, rgba(255,255,255,0.32) 0%, rgba(255,255,255,0) 100%)"
+      }
+    }
+  },
+  "regen": {
+    "enable_modules": {
+      "authz": true,
+      "feegrant": true,
+      "group": true
+    },
+    "amino_config": {
+      "authz": true,
+      "feegrant": true,
+      "group": false
+    },
+    "show_airdrop": false,
+    "logos": {
+      "menu": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/regen/images/regen.svg",
+      "toolbar": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/regen/images/regen-logo.png"
+    },
+    "keplr_experimental": false,
+    "leap_experimental": true,
+    "is_testnet": false,
+    "explorer_tx_hash_endpoint": "https://www.mintscan.io/regen/txs/",
+    "config": {
+      "chain_id": "regen-1",
+      "chain_name": "Regen",
+      "rest": "https://regen.stakesystems.io",
+      "rpc": "https://rpc-regen.ecostake.com",
+      "currencies": [
+        {
+          "coin_denom": "REGEN",
+          "coin_minimal_denom": "uregen",
+          "coin_decimals": 6
+        }
+      ],
+      "bech32_config": {
+        "bech32_prefix_acc_addr": "regen",
+        "bech32_prefix_acc_pub": "regenpub",
+        "bech32_prefix_val_addr": "regenvaloper",
+        "bech32_prefix_val_pub": "regenvaloperpub",
+        "bech32_prefix_cons_addr": "regengvalcons",
+        "bech32_prefix_cons_pub": "regenvalconspub"
+      },
+      "fee_currencies": [
+        {
+          "coin_denom": "REGEN",
+          "coin_minimal_denom": "uregen",
+          "coin_decimals": 6,
+          "gas_price_step": {
+            "low": 0.01,
+            "average": 0.025,
+            "high": 0.03
+          }
+        }
+      ],
+      "bip44": {
+        "coin_type": 118
+      },
+      "stake_currency": {
+        "coin_denom": "REGEN",
+        "coin_minimal_denom": "uregen",
+        "coin_decimals": 6
+      },
+      "image": "https://raw.githubusercontent.com/leapwallet/assets/2289486990e1eaf9395270fffd1c41ba344ef602/images/logo.svg",
+      "theme": {
+        "primaryColor": "#fff",
+        "gradient": "linear-gradient(180deg, rgba(255,255,255,0.32) 0%, rgba(255,255,255,0) 100%)"
+      }
+    }
+  },
+  "stargaze": {
+    "enable_modules": {
+      "authz": true,
+      "feegrant": true,
+      "group": false
+    },
+    "amino_config": {
+      "authz": false,
+      "feegrant": false,
+      "group": false
+    },
+    "show_airdrop": false,
+    "logos": {
+      "menu": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/stargaze/images/stargaze.svg",
+      "toolbar": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/stargaze/images/stargaze-logo.png"
+    },
+    "keplr_experimental": false,
+    "leap_experimental": false,
+    "is_testnet": false,
+    "explorer_tx_hash_endpoint": "https://www.mintscan.io/stargaze/txs/",
+    "config": {
+      "chain_id": "stargaze-1",
+      "chain_name": "Stargaze",
+      "rest": "https://rest.stargaze-apis.com/",
+      "rpc": "https://rpc.stargaze-apis.com/",
+      "currencies": [
+        {
+          "coin_denom": "STARS",
+          "coin_minimal_denom": "ustars",
+          "coin_decimals": 6
+        }
+      ],
+      "bech32_config": {
+        "bech32_prefix_acc_addr": "stars",
+        "bech32_prefix_acc_pub": "starspub",
+        "bech32_prefix_val_addr": "starsvaloper",
+        "bech32_prefix_val_pub": "starsvaloperpub",
+        "bech32_prefix_cons_addr": "starsgvalcons",
+        "bech32_prefix_cons_pub": "starsvalconspub"
+      },
+      "fee_currencies": [
+        {
+          "coin_denom": "STARS",
+          "coin_minimal_denom": "ustars",
+          "coin_decimals": 6,
+          "gas_price_step": {
+            "low": 0.01,
+            "average": 0.025,
+            "high": 0.03
+          }
+        }
+      ],
+      "bip44": {
+        "coin_type": 118
+      },
+      "stake_currency": {
+        "coin_denom": "STARS",
+        "coin_minimal_denom": "ustars",
+        "coin_decimals": 6
+      },
+      "image": "https://raw.githubusercontent.com/leapwallet/assets/2289486990e1eaf9395270fffd1c41ba344ef602/images/logo.svg",
+      "theme": {
+        "primaryColor": "#fff",
+        "gradient": "linear-gradient(180deg, rgba(255,255,255,0.32) 0%, rgba(255,255,255,0) 100%)"
+      }
+    }
+  },
+  "umee": {
+    "enable_modules": {
+      "authz": true,
+      "feegrant": true,
+      "group": true
+    },
+    "amino_config": {
+      "authz": true,
+      "feegrant": true,
+      "group": false
+    },
+    "show_airdrop": false,
+    "logos": {
+      "menu": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/umee/images/umee.svg",
+      "toolbar": "https://raw.githubusercontent.com/vitwit/chain-registry/08711dbf4cbc12d37618cecd290ad756c07d538b/umee/images/umee-logo.png"
+    },
+    "keplr_experimental": false,
+    "leap_experimental": false,
+    "is_testnet": false,
+    "explorer_tx_hash_endpoint": "https://www.mintscan.io/umee/txs/",
+    "config": {
+      "chain_id": "umee-1",
+      "chain_name": "Umee",
+      "rest": "https://api.mainnet.network.umee.cc",
+      "rpc": "https://umee-rpc.polkachu.com",
+      "currencies": [
+        {
+          "coin_denom": "UMEE",
+          "coin_minimal_denom": "uumee",
+          "coin_decimals": 6
+        }
+      ],
+      "bech32_config": {
+        "bech32_prefix_acc_addr": "umee",
+        "bech32_prefix_acc_pub": "umeepub",
+        "bech32_prefix_val_addr": "umeevaloper",
+        "bech32_prefix_val_pub": "umeevaloperpub",
+        "bech32_prefix_cons_addr": "umeegvalcons",
+        "bech32_prefix_cons_pub": "umeevalconspub"
+      },
+      "fee_currencies": [
+        {
+          "coin_denom": "UMEE",
+          "coin_minimal_denom": "uumee",
+          "coin_decimals": 6,
+          "gas_price_step": {
+            "low": 0.01,
+            "average": 0.025,
+            "high": 0.03
+          }
+        }
+      ],
+      "bip44": {
+        "coin_type": 118
+      },
+      "stake_currency": {
+        "coin_denom": "UMEE",
+        "coin_minimal_denom": "uumee",
+        "coin_decimals": 6
+      },
+      "image": "https://raw.githubusercontent.com/leapwallet/assets/2289486990e1eaf9395270fffd1c41ba344ef602/images/logo.svg",
+      "theme": {
+        "primaryColor": "#fff",
+        "gradient": "linear-gradient(180deg, rgba(255,255,255,0.32) 0%, rgba(255,255,255,0) 100%)"
+      }
+    }
+  }
+}
