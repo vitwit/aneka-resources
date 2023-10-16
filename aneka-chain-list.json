@@ -3,7 +3,7 @@
     "chainId": "akashnet-1",
     "type": "mainnet",
     "url": "https://akash.aneka.io",
-    "logo": ""
+    "logo": "https://akash.vitwit.com/argon-design-system-react/akashfavicon.png"
   },
   {
     "chainId": "cosmoshub-4",
@@ -27,19 +27,19 @@
     "chainId": "bigbang-3",
     "type": "testnet",
     "url": "https://bigbang.aneka.io",
-    "logo": ""
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
   },
   {
     "chainId": "akshnet-2-testnet-2",
     "type": "testnet",
     "url": "https://testnet.akash.aneka.io",
-    "logo": ""
+    "logo": "https://akash.vitwit.com/argon-design-system-react/akashfavicon.png"
   },
   {
     "chainId": "edgenet-5",
     "type": "testnet",
     "url": "https://edgenet.akash.aneka.io",
-    "logo": ""
+    "logo": "https://akash.vitwit.com/argon-design-system-react/akashfavicon.png"
   },
   {
     "chainId": "musselnet-2",
